@@ -8,6 +8,10 @@ namespace Astronomy
         public MainPage()
         {
             InitializeComponent();
+
+            this.Children.Add(new SunrisePage());
+            this.Children.Add(new MoonPhasePage());
+            this.Children.Add(new AboutPage());
         }
     }
 }
