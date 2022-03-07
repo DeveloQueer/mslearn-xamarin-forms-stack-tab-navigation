@@ -1,3 +1,6 @@
+# Forked for Git training while learning Xamarin Forms
+### #DeveloQueer is in the house
+
 # Microsoft Learn: Create multi-page Xamarin.Forms apps with stack and tab navigation
 
 This project contains the source code for the [**Create multi-page Xamarin.Forms apps with stack and tab navigation**](https://docs.microsoft.com/learn/modules/create-multi-page-xamarin-forms-apps-with-stack-and-tab-navigation/) Microsoft Learn module.
